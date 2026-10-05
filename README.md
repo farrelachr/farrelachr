@@ -15,8 +15,6 @@
       <img src="https://img.shields.io/badge/Cursor-0D1117?style=for-the-badge&logo=cursor&logoColor=FFFFFF&labelColor=161B22" alt="Cursor" />
     </a>
     &nbsp;
-    <a href="https://openai.com" target="_blank">
-      <img src="https://img.shields.io/badge/Codex-0D1117?style=for-the-badge&logo=openai&logoColor=10A37F&labelColor=161B22" alt="Codex" />
     </a>
   </p>
 </div>
