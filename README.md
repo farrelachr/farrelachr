@@ -4,7 +4,7 @@
   <br />
   <br />
 
-  <h3>⚡ Tech Stack & Tooling</h3>
+  <h3>Tech Stack</h3>
 
   <p align="center">
     <a href="https://deepmind.google/technologies/antigravity" target="_blank">
